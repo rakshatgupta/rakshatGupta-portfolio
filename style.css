@@ -123,4 +123,14 @@ footer {
 .portfolio-page section {
     width: 100%;
 }
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 20px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px 0;
+    }
+}
 
